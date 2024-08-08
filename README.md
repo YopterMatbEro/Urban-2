@@ -7,3 +7,4 @@
 3) [Третье](module_2_3.py)
 4) [Четвертое](module_2_4.py)
 5) [Пятое](module_2_5.py)
+6) [HardMode](module_2_hard.py)
